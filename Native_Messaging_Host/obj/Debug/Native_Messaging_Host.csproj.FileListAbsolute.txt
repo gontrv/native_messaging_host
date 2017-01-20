@@ -1,0 +1,10 @@
+c:\users\alex\documents\visual studio 2012\Projects\Native_Messaging_Host\Native_Messaging_Host\bin\Debug\Native_Messaging_Host.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\Native_Messaging_Host\Native_Messaging_Host\bin\Debug\Native_Messaging_Host.exe
+c:\users\alex\documents\visual studio 2012\Projects\Native_Messaging_Host\Native_Messaging_Host\bin\Debug\Native_Messaging_Host.pdb
+c:\users\alex\documents\visual studio 2012\Projects\Native_Messaging_Host\Native_Messaging_Host\obj\Debug\Native_Messaging_Host.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2012\Projects\Native_Messaging_Host\Native_Messaging_Host\obj\Debug\Native_Messaging_Host.exe
+c:\users\alex\documents\visual studio 2012\Projects\Native_Messaging_Host\Native_Messaging_Host\obj\Debug\Native_Messaging_Host.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Native_Messaging_Host\Native_Messaging_Host\bin\Debug\ExplorerByChrome.dll
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Native_Messaging_Host\Native_Messaging_Host\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Native_Messaging_Host\Native_Messaging_Host\bin\Debug\ExplorerByChrome.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Native_Messaging_Host\Native_Messaging_Host\bin\Debug\Newtonsoft.Json.xml

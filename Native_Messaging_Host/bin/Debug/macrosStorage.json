@@ -1,0 +1,38 @@
+{
+  "List": [
+    {
+      "Name": "javascript.ru",
+      "Points": [
+        {
+          "Name": "javascript.ru.0d71af9b-2eed-4116-9192-dfb784f904b1",
+          "Delay": 7000,
+          "ElementSelector": "a[href='/courses']",
+          "TimeFindElement": 60000,
+          "TargetUrl": "http://learn.javascript.ru/"
+        },
+        {
+          "Name": "javascript.ru.214705ca-66d1-4576-a98c-6c4e13ceffc5",
+          "Delay": 7000,
+          "ElementSelector": "a[href='/courses/nodejs']",
+          "TimeFindElement": 60000,
+          "TargetUrl": "/courses/nodejs"
+        },
+        {
+          "Name": "javascript.ru.f48a2857-e5b6-4e9f-914c-7b4019eafb70",
+          "Delay": 7000,
+          "ElementSelector": "a[href='http://javascript.ru/manual']",
+          "TimeFindElement": 60000,
+          "TargetUrl": "http://javascript.ru/manual"
+        },
+        {
+          "Name": "javascript.ru.b166ef69-c55d-4a56-82ed-df9ec0652472",
+          "Delay": 7000,
+          "ElementSelector": "a[href='http://es5.javascript.ru']",
+          "TimeFindElement": 2000,
+          "TargetUrl": "http://es5.javascript.ru"
+        }
+      ],
+      "PointPosition": 0
+    }
+  ]
+}
