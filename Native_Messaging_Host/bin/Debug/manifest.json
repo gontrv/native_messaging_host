@@ -1,9 +1,9 @@
 {
   "name": "messaging.host.example",
   "description": "My Application",
-  "path": "C:\\Users\\alex\\Documents\\visual studio 2012\\Projects\\Native_Messaging_Host\\Native_Messaging_Host\\bin\\Debug\\Native_Messaging_Host.exe",
+  "path": "D:\\native_messaging_host\\Native_Messaging_Host\\bin\\Debug\\Native_Messaging_Host.exe",
   "type": "stdio",
   "allowed_origins": [
-    "chrome-extension://dddlaajaklpjonlcbpkhpciaoondaomc/"
+    "chrome-extension://jibemkcnkkabdfheabdbejmemghglafj/"
   ]
 }

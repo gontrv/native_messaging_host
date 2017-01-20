@@ -1,3 +1,3 @@
 Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Google\Chrome\NativeMessagingHosts\messaging.host.example]
-@="C:\\Users\\alex\\Documents\\visual studio 2012\\Projects\\Native_Messaging_Host\\Native_Messaging_Host\\bin\\Debug\\manifest.json"
+@="D:\\native_messaging_host\\Native_Messaging_Host\\bin\\Debug\\manifest.json"
